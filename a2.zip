@@ -1,0 +1,1232 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><title>
+	Morningstar Document Library
+</title><link href="css/main.css" rel="Stylesheet" type="text/css" />
+    <script src="js/jquery-1.3.2.min.js" type="text/javascript" language="javascript"></script>
+    <script src="js/jquery.bgiframe.min.js" type="text/javascript" language="javascript"></script>    
+     <script src="js/jquery.autocomplete.pack.js" type="text/javascript" language="javascript"></script>
+ 
+     <script src="js/AutoComplete.js" type="text/javascript" language="javascript"></script>
+    <script language="javascript" type="text/javascript" src="js/jQuery.floatdiv.js"></script>
+    <script src="js/main.js" type="text/javascript" language="javascript"></script>
+
+    <script type="text/javascript">
+        function footeropenwin(windowName,width,height) {
+            newWindow = window.open(windowName, 'newWindow','toolbar=no,location=no,menubar=no,width='+width+',height='+height+',scrollbars=yes,resizable=no');
+        }
+
+        $(document).ready(function(){
+                $("#headerHelp").click(function(){
+                    showModalDialog("help.htm","", "dialogWidth:600px;dialogHeight:300px;scroll:no;status:no")
+                });
+                
+                $("#KnowledgeBase").click(function(){
+                    showModalDialog("help.htm","", "dialogWidth:600px;dialogHeight:300px;scroll:no;status:no")
+                });
+                
+                $("#TrainingSupport").click(function(){
+                    showModalDialog("help.htm","", "dialogWidth:600px;dialogHeight:300px;scroll:no;status:no")
+                });
+            }
+            );
+    </script>
+    
+    <script type="text/javascript">
+        $(document).ready(function(){
+        $("#navAbout a").css("color","#617f9E"); 
+//        if($("#LoginMessage").val() != "")
+//        {
+//            alert($("#LoginMessage").val());
+//        }
+         });
+         
+         function submitForm(){
+         $("#submitButton").hide();          
+         $("#waiting").show();
+            $("#submitButton").attr("src","image/indicator.gif"); 
+         }
+    </script>
+
+    <style type="text/css">
+#contentLeft
+{
+    width:570px;
+    float:left;
+    margin-right:15px;
+}
+#contentRight{
+    width:370px;
+    float:left;
+}
+p{
+margin:5px auto;
+}
+#contentLeftAbout{
+    border-bottom:solid 1px black;
+    padding-bottom:30px;
+}
+#contentLeftBottom p{
+    font-size:10px;
+}
+h5{
+    
+    margin-top:10px;
+    
+}
+h4{
+ margin-top:7px; 
+}
+
+#contentLeftCenter p{
+line-height:16px;
+}
+
+
+
+#documentCondition td
+{
+    padding-bottom:2px;
+    font-size:10px;
+}
+
+.bar div
+{
+    height: 15px;
+    width: 70%;
+    float: left;          
+    line-height: 15px;
+    overflow: hidden;
+}
+
+#DocumentCount td
+{
+    height: 25px;
+    border-bottom: solid 1px #C7C7C7;
+}
+#DocumentCount .Num
+{
+    float: left;
+    margin-left:5px;   
+}
+#DocumentCount
+{
+    font-size:9px;
+    border-collapse: collapse;
+    width:370px;   
+}
+#ruler td
+{
+    height:2px;
+    font-size:1px;
+}
+
+#lastRow td
+{
+    border:none;
+}
+#firstMark {
+margin-left:66px;
+margin-top:-6px;
+position:absolute;
+}
+.header{
+font-weight:lighter;
+font-size:10px;
+color:#000000;
+}
+#coverage td{
+border-bottom:solid 1px #D6D6D6;
+}
+#coverage th{
+border-top:solid 1px #D6D6D6;
+}
+
+</style>
+</head>
+<body>
+
+<div id="addToWatchListDialog" class="blockSelectInIE6">
+   <h4 style="margin:0;border-bottom:1px solid #666666;padding-bottom:5px;margin-right:20px;">Add to Watch List(s)</h4>
+   
+   <div style="border-bottom:1px solid #9e9e9e;padding:10px;margin-right:20px;" id="addItemToWatchListSingleContainer">
+   
+   <span>Add selected investments to:</span>
+   <select id="watchlistSingleSelect">
+     <option>1</option>
+   </select>
+   </div>
+   <div id="addItemToWatchListIndividuallyDiv" style="display:none;"><input type="radio" name="addItemToWatchListRadio" id="addItemToWatchListMulti"/>
+   Add investments individually
+   <div style="border-bottom: 1px solid #e6e6e6; border-top: 1px solid #e6e6e6;height: 320px;overflow-x:hidden;overflow-y:scroll;margin-top:5px;">
+   <table style="width:100%;" id="addItemToWatchListMultiTable">  
+   
+   </table>
+   </div>
+   </div>
+   
+   <div class="buttonSubmit" id="submitAddWatchList" style="float:left;margin-top:10px;margin-right:10px;"></div>    
+   <div class="buttomCancel" id="cancelAddWatchList" onclick="hideAddToWatchList()" style="float:left;margin-top:10px;margin-right:20px;"></div>
+</div>
+
+    <div id="alphaMask"></div>
+    <div id="LoadingMask" style="display:none">
+    <img src="image/ajax-loader.gif" />
+    </div>
+    <div style="display:none" id="HideU"></div>
+    <div style="display:none" id="HideC"></div>
+    <div style="display:none" id="HideP"></div>
+    <input type="hidden" id="preferenceUniverse" value="" />
+    <input type="hidden" id="preferenceCountry" value="" />
+    <input type="hidden" id="preferencePage" value="" />
+    <div style="display:none" id="currentPage">home.aspx</div>
+    <div style="display:none" id="HasPreference">false</div>
+    <div style="display:none">
+    
+    <select id="SelectCountryALL">
+    
+    <option value="ALL">All Locations</option>
+    
+    <option value="AUS">Australia</option>
+    
+    <option value="AUT">Austria</option>
+    
+    <option value="BEL">Belgium</option>
+    
+    <option value="CAN">Canada</option>
+    
+    <option value="CHL">Chile</option>
+    
+    <option value="CZE">Czech Republic</option>
+    
+    <option value="DNK">Denmark</option>
+    
+    <option value="FIN">Finland</option>
+    
+    <option value="FRA">France</option>
+    
+    <option value="DEU">Germany</option>
+    
+    <option value="GRC">Greece</option>
+    
+    <option value="HKG">Hong Kong</option>
+    
+    <option value="IND">India</option>
+    
+    <option value="IRL">Ireland</option>
+    
+    <option value="ITA">Italy</option>
+    
+    <option value="JPN">Japan</option>
+    
+    <option value="JEY">Jersey</option>
+    
+    <option value="LIE">Liechtenstein</option>
+    
+    <option value="LUX">Luxembourg</option>
+    
+    <option value="MEX">Mexico</option>
+    
+    <option value="NAM">Namibia</option>
+    
+    <option value="NLD">Netherlands</option>
+    
+    <option value="NZL">New Zealand</option>
+    
+    <option value="NOR">Norway</option>
+    
+    <option value="POL">Poland</option>
+    
+    <option value="PRT">Portugal</option>
+    
+    <option value="SGP">Singapore</option>
+    
+    <option value="ZAF">South Africa</option>
+    
+    <option value="ESP">Spain</option>
+    
+    <option value="SWE">Sweden</option>
+    
+    <option value="CHE">Switzerland</option>
+    
+    <option value="TWN">Taiwan</option>
+    
+    <option value="GBR">United Kingdom</option>
+    
+    <option value="USA">United States</option>
+    
+    </select>
+    
+    <select id="SelectCountryCEF">
+    
+    <option value="ALL">All Locations</option>
+    
+    <option value="MEX">Mexico</option>
+    
+    <option value="NAM">Namibia</option>
+    
+    <option value="NZL">New Zealand</option>
+    
+    <option value="ZAF">South Africa</option>
+    
+    <option value="GBR">United Kingdom</option>
+    
+    <option value="USA">United States</option>
+    
+    </select>
+    
+    <select id="SelectCountryETF">
+    
+    <option value="ALL">All Locations</option>
+    
+    <option value="AUT">Austria</option>
+    
+    <option value="CAN">Canada</option>
+    
+    <option value="CHL">Chile</option>
+    
+    <option value="FRA">France</option>
+    
+    <option value="DEU">Germany</option>
+    
+    <option value="ITA">Italy</option>
+    
+    <option value="LUX">Luxembourg</option>
+    
+    <option value="MEX">Mexico</option>
+    
+    <option value="NAM">Namibia</option>
+    
+    <option value="NZL">New Zealand</option>
+    
+    <option value="ZAF">South Africa</option>
+    
+    <option value="ESP">Spain</option>
+    
+    <option value="CHE">Switzerland</option>
+    
+    <option value="GBR">United Kingdom</option>
+    
+    <option value="USA">United States</option>
+    
+    </select>
+    
+    <select id="SelectCountryHF">
+    
+    <option value="ALL">All Locations</option>
+    
+    <option value="CAN">Canada</option>
+    
+    <option value="FRA">France</option>
+    
+    <option value="DEU">Germany</option>
+    
+    <option value="ITA">Italy</option>
+    
+    <option value="LIE">Liechtenstein</option>
+    
+    <option value="LUX">Luxembourg</option>
+    
+    <option value="MEX">Mexico</option>
+    
+    <option value="NAM">Namibia</option>
+    
+    <option value="NLD">Netherlands</option>
+    
+    <option value="NZL">New Zealand</option>
+    
+    <option value="ZAF">South Africa</option>
+    
+    <option value="ESP">Spain</option>
+    
+    <option value="SWE">Sweden</option>
+    
+    <option value="CHE">Switzerland</option>
+    
+    <option value="USA">United States</option>
+    
+    </select>
+    
+    <select id="SelectCountryMF">
+    
+    <option value="ALL">All Locations</option>
+    
+    <option value="AUS">Australia</option>
+    
+    <option value="AUT">Austria</option>
+    
+    <option value="BEL">Belgium</option>
+    
+    <option value="CAN">Canada</option>
+    
+    <option value="CHL">Chile</option>
+    
+    <option value="CZE">Czech Republic</option>
+    
+    <option value="DNK">Denmark</option>
+    
+    <option value="FIN">Finland</option>
+    
+    <option value="FRA">France</option>
+    
+    <option value="DEU">Germany</option>
+    
+    <option value="GRC">Greece</option>
+    
+    <option value="HKG">Hong Kong</option>
+    
+    <option value="IND">India</option>
+    
+    <option value="IRL">Ireland</option>
+    
+    <option value="ITA">Italy</option>
+    
+    <option value="JPN">Japan</option>
+    
+    <option value="JEY">Jersey</option>
+    
+    <option value="LIE">Liechtenstein</option>
+    
+    <option value="LUX">Luxembourg</option>
+    
+    <option value="MEX">Mexico</option>
+    
+    <option value="NAM">Namibia</option>
+    
+    <option value="NLD">Netherlands</option>
+    
+    <option value="NZL">New Zealand</option>
+    
+    <option value="NOR">Norway</option>
+    
+    <option value="POL">Poland</option>
+    
+    <option value="PRT">Portugal</option>
+    
+    <option value="SGP">Singapore</option>
+    
+    <option value="ZAF">South Africa</option>
+    
+    <option value="ESP">Spain</option>
+    
+    <option value="SWE">Sweden</option>
+    
+    <option value="CHE">Switzerland</option>
+    
+    <option value="TWN">Taiwan</option>
+    
+    <option value="GBR">United Kingdom</option>
+    
+    <option value="USA">United States</option>
+    
+    </select>
+    
+    <select id="SelectCountryMM">
+    
+    <option value="ALL">All Locations</option>
+    
+    <option value="AUT">Austria</option>
+    
+    <option value="CAN">Canada</option>
+    
+    <option value="FRA">France</option>
+    
+    <option value="DEU">Germany</option>
+    
+    <option value="ITA">Italy</option>
+    
+    <option value="LUX">Luxembourg</option>
+    
+    <option value="MEX">Mexico</option>
+    
+    <option value="NAM">Namibia</option>
+    
+    <option value="NZL">New Zealand</option>
+    
+    <option value="ZAF">South Africa</option>
+    
+    <option value="ESP">Spain</option>
+    
+    <option value="SWE">Sweden</option>
+    
+    <option value="CHE">Switzerland</option>
+    
+    <option value="GBR">United Kingdom</option>
+    
+    <option value="USA">United States</option>
+    
+    </select>
+    
+    <select id="SelectCountryUIT">
+    
+    <option value="USA">United States</option>
+    
+    </select>
+    
+    <select id="SelectCountryVA">
+    
+    <option value="USA">United States</option>
+    
+    </select>
+    
+    <select id="SelectCountryEquity">
+    <option value="ALL">All Location</option>
+     
+    <option value="AUS">Australia</option>
+    
+    <option value="CAN">Canada</option>
+    
+    <option value="CHN">China</option>
+    
+    <option value="DNK">Denmark</option>
+    
+    <option value="FIN">Finland</option>
+    
+    <option value="FRA">France</option>
+    
+    <option value="DEU">Germany</option>
+    
+    <option value="HKG">Hong Kong</option>
+    
+    <option value="IND">India</option>
+    
+    <option value="IRL">Ireland</option>
+    
+    <option value="ITA">Italy</option>
+    
+    <option value="JPN">Japan</option>
+    
+    <option value="MEX">Mexico</option>
+    
+    <option value="NAM">Namibia</option>
+    
+    <option value="NLD">Netherlands</option>
+    
+    <option value="NOR">Norway</option>
+    
+    <option value="POL">Poland</option>
+    
+    <option value="SGP">Singapore</option>
+    
+    <option value="ZAF">South Africa</option>
+    
+    <option value="ESP">Spain</option>
+    
+    <option value="SWE">Sweden</option>
+    
+    <option value="CHE">Switzerland</option>
+    
+    <option value="TWN">Taiwan</option>
+    
+    <option value="THA">Thailand</option>
+    
+    <option value="GBR">United Kingdom</option>
+    
+    <option value="USA">United States</option>
+    
+    </select>    
+    <select id="SelectCountryRIA">
+        <option value="USA">United States</option>
+    </select>
+   <select id="SelectCountryPEF">
+    <option value="USA">United States</option>
+   </select>
+    
+    <select id="SelectPageTypeFund">   
+        <option value="OS">Offering Statement</option>
+        <option value="SR">Shareholder Reports</option>
+        <option value="OD">Other Documents</option>
+        <option value="FL">Fund Launches</option>
+        <option value="TS">Top Searches</option>
+        <option value="Search">Search</option>
+    </select>
+   <select id="SelectPageTypeEquity">   
+        <option value="shareholder">Shareholder reports</option>
+        <option value="announcement">Announcements</option>
+        <option value="insider">Insider Activities</option>
+        <option value="other">Other Reports</option>
+        <option value="recentlyipo">Recent IPOs</option>
+        <option value="topsearch">Top Searches</option>
+        <option value="search">Search</option>
+    </select>
+    <select id="SelectPageTypeRIA">   
+        <option value="adv">Form Advs</option>
+        <option value="topsearches">Top Searches</option>
+        <option value="search">Search</option>
+    </select>
+    <select id="SelectPageTypePEF">   
+        <option value="FR">Financial Reports</option>
+        <option value="TPBA">Top Plans By Assets</option>
+        <option value="TS">Top Searches</option>        
+        <option value="Search">Search</option>
+    </select>
+    </div>
+    
+    
+    
+    <div id="mainContainer" >
+    
+        <div id="header">
+        
+            <div style="float:left">
+                <a href="home.aspx" target="_self" style="border-width: 0px;">
+                    <img src="image/Logo-box.gif" />
+                </a>
+            </div>
+            <div style="float:left; padding-left:402px;">
+                <div>
+                    <img src="image/MDL_name.gif"/>
+                </div>
+                <div>
+                    <span id="headerDate" class="headerItem" style="padding-left:0"><script language="javascript" type="text/javascript">get_date()</script></span><label class="headerSpliter">|</label>
+                    <span id="headerLogin" class="headerItem">
+                    <a href="Home.aspx" id="loginButton" style="color:#FFFFFF;text-decoration: none;">Login</a></span> <label class="headerSpliter">|</label>
+                    <span id="headerHelp" class="headerItem" style="cursor:pointer">Help</span><label class="headerSpliter">|</label>
+                    
+                    <div id="headerPreferencesSelector">
+                    <table style="margin-left: 10px; margin-top: 10px;color:black;">
+                        <tr style="height:30px;">
+                        <td style="width:100px;">Landing Universe</td>
+                        <td>
+                        <select style="width:170px;" id="headUniverseSelector">
+                         <optgroup label="My Library">
+                         <option value="ALERT">New Document Alert</option>
+                         <option value="WATCHLIST">My Watch List</option>
+                         <option value="DOCUMENT">My Documents</option>                 
+                         </optgroup>
+                         <optgroup label="Fund Documents">
+                         <option value="MF">Mutual Funds</option>
+                         <option value="CEF">Closed-end Funds</option>
+                         <option value="ETF">Exchange Traded Funds</option>
+                         <option value="MM">Money Market Funds</option>
+                         <option value="UIT">Unit Investment Trusts</option>
+                         <option value="HF">Hedge Funds</option>
+                         <option value="VA">Variable Annuities</option>
+                         <option value="ALL">All Fund Universes</option>
+                         </optgroup>
+                         <optgroup label="Corporate">
+                           <option value="Equity">Corporate Reports</option>
+                         </optgroup>
+                         <optgroup label="Institutional Filings">
+                         <option value="RIA">RIA</option>
+                         <option value="PEF">Pension and Endowment</option>
+                         </optgroup>
+                        </select>
+                        </td>
+                        </tr>            
+                        <tr style="height:30px;"><td>Landing Country</td>
+                        <td><select style="width:170px;" id="headCountrySelector">
+                        </select>
+                        </td></tr>            
+                        <tr style="height:30px;"><td>Landing Feature</td>
+                        <td>
+                        <select id="headPageSelector" style="width:170px;">
+                        </select>
+                        </td></tr>
+                    </table> 
+                    <div style="border-top:solid 1px #cdcdcd;margin-top:40px;padding-top:5px;">
+                    <span id="headerPreferencesSelectorSubmit"></span>
+                     <span id="headerPreferencesSelectorCancel"></span>
+                    </div>           
+                    </div>
+                </div>
+            </div>
+            
+            <div style="clear:both"></div>
+        </div>  
+         
+        <div style="clear:both;"></div>
+        <ul id="nav">
+         
+        
+          <li id="navAbout" class="navItem" style="padding-left: 20px;">
+            <div>
+                    <table style="height:32px;border-collapse: collapse;margin:0;padding:0;" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td valign="middle">
+                                
+                            </td>
+                            <td valign="middle">
+                                 <a href="Home.aspx" style="text-decoration:none">Home</a>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+          </li>
+              
+           
+          <li id="navFund" class="navItem">
+                   
+                <div>
+                    <table style="height:32px;border-collapse: collapse;margin:0;padding:0;" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td valign="middle">
+                                Fund Documents
+                            </td>
+                            <td valign="middle">
+                                <img src="image/menu-arrow.gif"/>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+         
+         <ul id="navFundSelector" style="display:none;list-style:none;" class="blockSelectInIE6">
+                 <li id="navFundSelectorMF"><a href="Fund.aspx?u=MF">Mutual Funds</a></li>
+                 <li id="navFundSelectorCEF"><a href="Fund.aspx?u=CEF">Closed-end Funds</a></li>
+                 <li id="navFundSelectorETF"><a href="Fund.aspx?u=ETF">Exchange Traded Funds</a></li>
+                 <li id="navFundSelectorMM"><a href="Fund.aspx?u=MM">Money Market Funds</a></li>
+                 <li id="navFundSelectorUIT"><a href="Fund.aspx?u=UIT">Unit Investment Trusts</a></li>
+                 <li id="navFundSelectorHF"><a href="Fund.aspx?u=HF">Hedge Funds</a></li>
+                 <li id="navFundSelectorVA"><a href="Fund.aspx?u=VA">Variable Annuities</a></li>
+                 <li id="navFundSelectorALL"><a href="Fund.aspx?u=ALL">All Universes</a></li>
+                </ul>        
+            </li>
+          
+            <li id="navCompany" class="navItem">
+            
+                <div>
+                    <table style="height:32px;border-collapse: collapse;margin:0;padding:0;" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td valign="middle">
+                                
+                            </td>
+                            <td valign="middle">
+                                <a href="corporate.aspx" style="text-decoration:none" >Corporate Reports</a>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </li>
+          
+       
+          <li id="navInstitutional" class="navItem">
+             
+            <div>
+                <table style="height:32px;border-collapse: collapse;margin:0; padding:0;" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td valign="middle">
+                            Institutional Filings
+                        </td>
+                        <td valign="middle">
+                            <img src="image/menu-arrow.gif"/>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+             
+            <ul id="navInstitutionalSelector" style="display:none;list-style:none;" class="blockSelectInIE6">
+                 <li id="navInstitutionalSelectorADV"><a href="RIA.aspx">RIAs</a></li>
+                 <li id="navInstitutionalSelectorPEF"><a href="PEF.aspx">Pensions and Endowments</a></li>
+            </ul>      
+          </li> 
+
+
+
+             
+        </ul>
+  
+        
+        <div id="content">
+            
+  
+    
+    <div id="loginPanel">
+    <div style="float:left;height:140px;width:170px;">
+        <div style="height:80px;width:155px;"></div>
+        <div style="height:35px;width:135px;font-size:10px;padding:10px;">
+        Forgot your password? <br/>
+        <a href="https://members.morningstar.com/dotnet/register/lostpassword.aspx?product=DM">Click here</a>
+        </div>
+    </div>
+    <div style="float:left;height:120px;width:360px;padding:10px 20px;">
+    <form id="loginForm" action="Home.aspx" method="post" onsubmit="submitForm()">
+    <input name="ReturnUrl" value="/Document/513001c8d6455aa6c06fa05134ca7d33.msdoc?isdownload=1" style="display:none"/>
+    <div style="padding:0 5px;">E-Mail Address</div>
+    
+    <div><input name="clientid" style="margin:5px;width:340px;" value=""/></div>
+    <div style="padding:0 5px;">Password</div>
+   
+    <div><input name="key" style="margin:5px;width:340px;" type="password"/></div>
+    <div style="padding:5px;*padding: 0 5px;">
+    <input type="submit" style="display:none"/>
+   <img id="submitButton" src="image/buttonLogin.png" alt="submit" onclick="submitForm();$('#loginForm').submit();" style="cursor:pointer;"/>
+   <img id="waiting" src="image/indicator.gif" alt="waiting" style="display:none"/>
+    <div style="float: right; font-size: 10px;margin-right:5px;*margin-top:-20px;">
+    <input type="checkbox" name="rememberMe"/><span>Remember my login information</span>
+    </div>
+    </div>
+    </form>
+    </div>
+    <div style="float:left;height:140px;width:375px;">
+    <h5 style="margin-left:15px;">Don&#39;t Have An Account? Sign up for a free, 30-day trial.</h5>
+    <p style="margin:15px 20px 25px 15px;line-height:20px;">
+    Join now, and in a few minutes, you will have access to the most comprehensive library of investment documents. 
+    </p>
+    <a href="Register.aspx" style="margin-left:15px"><img src="image/buttonCreateAccount.png" alt="create new Account"/></a>
+    
+    </div>
+    <div style="clear:both"></div>
+    </div>
+    
+    <div id="contentLeft">
+        <div id="contentLeftAbout">
+            <h2 style="margin: 0;font-size:14px">
+                About the Morningstar Document Library</h2>
+            <p style="color: #666666; font-size:14px;">
+                The Morningstar Document Library is a comprehensive resource for investment documents, from prospectuses to annual reports. By combining more than 20 years of data collection experience with advanced technology, Morningstar delivers accurate and timely documents to clients, enabling them to meet regulatory requirements as well as deliver excellent service to investors.
+                </p>
+        </div>
+        <div id="contentLeftCenter" style="border-bottom: solid 1px black; padding-bottom: 30px;">
+            <div id="contentLeftCenterLeft" style="float: left; width: 275px;">
+                <h4 style="font-size:11px;">
+                    State-of-the-Art Technology</h4>
+                <p>
+                    Morningstar's scalable global infrastructure is designed for performance, resilience and high availability. This infrastructure manages 22 online products, including Morningstar.com, which handles peak loads of three million page views per day. With locations in Chicago, London, Shenzhen, and Sydney, our worldwide data centers ensure 24*7 business continuity for all of Morningstar's global users.</p>
+            </div>
+            <div id="contentLeftCenterRight" style="float: left; width: 275px; margin-left: 20px;">
+                <h4 style="font-size:11px;">
+                    The Clients We Serve</h4>
+                <p>
+                    The Morningstar Document Library is ideal for brokerage firms or retirement plan service providers that want to outsource costly document collection and maintenance. In addition to this web interface, the Document Library can also be private-labeled or provided through APIs. Advisors and plan providers can grant investors direct access to the library via their own websites, ensuring investors receive immediate access to key documents. Fund companies and compliance officers find it a valuable resource for current and archived proprietary and competitor filings.</p>
+            </div>
+            <div style="clear: both;">
+            </div>
+        </div>
+        <div id="contentLeftBottom">
+            <div id="contentLeftBottomLeft" style="float: left; width: 175px;">
+                <h5>
+                    Benefits</h5>
+                    <p>
+                    Global investment coverage</p>
+                <p>
+                    Documents available within 24 hours of submission to the SEC</p>
+                <p>
+                    Seamless integration</p>
+                <p style="border-bottom:solid 1px #666666;padding-bottom:10px;">
+                    Data collection expertise</p>
+                    
+                    <h5>Download the Morningstar Document Library product brochure(PDF) </h5>
+                    <p>October 2008 | 4.6M</p>
+                <a href="/gdl_source/GDL_brochure-final.pdf"><img  style="border:none;"src="image/gdl_brochure.png" alt="brochure cover"/></a>
+                    
+            </div>
+            <div id="contentLeftBottomCenter" style="float: left; width: 160px;margin-left: 20px;">
+                <h5>
+                    Data Universes Available</h5>               
+                <p>
+                    <a href="Fund.aspx?u=CEF">Closed-end funds</a></p>
+                <p>
+                    <a href="corporate.aspx">Equities</a></p>
+                <p>
+                    <a href="Fund.aspx?u=ETF">Exchange-traded funds</a></p>
+                <p>
+                    <a href="Fund.aspx?u=HF">Hedge funds</a></p>
+                <p>
+                    <a href="RIA.aspx">Investment Advisor</a></p>
+                <p>
+                    <a href="Fund.aspx?u=MM">Money market funds</a></p>
+                <p>
+                    <a href="Fund.aspx?u=MF">Open-end funds</a></p>
+                <p>
+                    <a href="PEF.aspx">Pensions, endowments, and foundations</a></p>
+                <p>
+                    <a href="Fund.aspx?u=UIT">Unit investment trusts</a></p>
+                <p>
+                    <a href="Fund.aspx?u=VA">Variable annuity/life policies</a></p>
+            </div>
+            <div id="contentLeftBottomRight" style="float: left; width: 175px;margin-left: 20px;">
+                <h5>
+                    Documentation Available</h5>
+                <p>
+                    Annual reports</p>               
+                <p>
+                    Factsheet</p>
+                <p>
+                    Form Adv I & II</p>
+                <p>
+                    Insider activity</p>
+                <p>
+                    Key announcements</p>
+                <p>
+                    Prospectuses</p>
+                <p>
+                    Registration statements</p>
+                <p>
+                    Semi-annual reports</p>
+                <p>
+                    Significant ownership</p>
+                <p>
+                    Simplified Prospectus</p>
+                <p>
+                    Statements of additional information (SAI)</p>
+                <p>
+                    Summary Prospectus</p>
+                <p>
+                    Supplements</p>
+            </div><div style="clear: both;"></div>
+        </div>
+    </div>
+    <div id="contentRight">
+        <div>
+        <h4 style="float:left;font-size:11px;">New Documents In Past Five Days</h4>
+        </div> <div style="clear: both;"></div>
+        <table id="DocumentCount">
+        
+                <tr >
+                    <td style="width:70px;">01-09-13</td>
+                    <td class="bar" colspan="3">
+                        
+                            <div style="width:119px;">
+                                <img src="image/bar.png" style="width:109px; height:15px;"/>
+                            </div>
+                            <!--<div style="width:109px;"></div>-->
+                        
+                        <span class="Num">4,548</span>
+                    </td>
+               </tr>
+            
+                <tr >
+                    <td style="width:70px;">01-08-13</td>
+                    <td class="bar" colspan="3">
+                        
+                            <div style="width:162px;">
+                                <img src="image/bar.png" style="width:152px; height:15px;"/>
+                            </div>
+                            <!--<div style="width:152px;"></div>-->
+                        
+                        <span class="Num">6,364</span>
+                    </td>
+               </tr>
+            
+                <tr >
+                    <td style="width:70px;">01-07-13</td>
+                    <td class="bar" colspan="3">
+                        
+                            <div style="width:135px;">
+                                <img src="image/bar.png" style="width:125px; height:15px;"/>
+                            </div>
+                            <!--<div style="width:125px;"></div>-->
+                        
+                        <span class="Num">5,230</span>
+                    </td>
+               </tr>
+            
+                <tr >
+                    <td style="width:70px;">01-06-13</td>
+                    <td class="bar" colspan="3">
+                        
+                            <div style="width:31px;">
+                                <img src="image/bar.png" style="width:21px; height:15px;"/>
+                            </div>
+                            <!--<div style="width:21px;"></div>-->
+                        
+                        <span class="Num">900</span>
+                    </td>
+               </tr>
+            
+                <tr id="lastRow">
+                    <td style="width:70px;">01-05-13</td>
+                    <td class="bar" colspan="3">
+                        
+                            <div style="width:29px;">
+                                <img src="image/bar.png" style="width:19px; height:15px;"/>
+                            </div>
+                            <!--<div style="width:19px;"></div>-->
+                        
+                        <span class="Num">816</span>
+                    </td>
+               </tr>
+               
+            <tr>    
+                <td style="border:none;height:15px">
+                <span id="firstMark">0</span></td>
+                <td  style="border:none;height:15px;">               
+                <span style="float:right;margin-top:-6px;position:absolute;margin-left: 101px;">5,000</span></td>
+                <td  style="border:none;height:15px;">
+                <span style="float:right;margin-top:-6px;position:absolute;margin-left:98px;">10,000</span></td>
+                <td  style="height:15px;border:none">
+                </td>
+            </tr>
+            <tr id="ruler">
+                <td style="border-bottom:none;">
+                &nbsp;</td>
+                <td  style="border-left:solid 1px #7c7c7c;width:120px">
+                &nbsp;</td>
+                <td style="border-left:solid 1px #7c7c7c;border-right:solid 1px #7c7c7c;width:120px">
+                &nbsp;</td>
+                <td  style="border-bottom:none;width:60px">
+                &nbsp;</td>
+            </tr>
+        </table>
+        <div style="line-height:25px;margin-top:30px;border-top:solid 1px #666666;font-size:11px;font-weight:bold">
+            Global and Historical Coverage
+        </div>
+        <div>
+            <table style="line-height:18px;width:100%;border-collapse:collapse;margin-bottom:30px;font-size:10px;" id="coverage">
+                <thead>
+                    <tr>
+                        <th class="header" style="width:170px;text-align:left;">Country</th>
+                        <th class="header" style="text-align:right;width:80px;">Mutual Funds</th>
+                        <th class="header" style="text-align:right;">Equities</th>
+                    </tr>
+                </thead>                            
+                
+                    <tr>
+                        <td style="font-weight:bold">Luxembourg</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=LUX&u=MF">36,769</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=LUX">126</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">United Kingdom</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=GBR&u=MF">31,041</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=GBR">4,205</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">United States</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=USA&u=MF">30,218</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=USA">24,914</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">France</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=FRA&u=MF">29,467</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=FRA">1,188</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Germany</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=DEU&u=MF">26,784</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=DEU">1,530</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Switzerland</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=CHE&u=MF">25,754</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=CHE">455</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Austria</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=AUT&u=MF">25,393</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=AUT">172</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Spain</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=ESP&u=MF">25,034</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=ESP">391</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Netherlands</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=NLD&u=MF">18,269</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=NLD">365</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Italy</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=ITA&u=MF">16,187</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=ITA">531</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Sweden</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=SWE&u=MF">15,158</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=SWE">872</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Canada</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=CAN&u=MF">14,643</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=CAN">6,237</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Ireland</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=IRL&u=MF">14,206</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=IRL">189</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Finland</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=FIN&u=MF">12,711</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=FIN">219</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Belgium</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=BEL&u=MF">11,259</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=BEL">240</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Norway</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=NOR&u=MF">10,893</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=NOR">539</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Chile</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=CHL&u=MF">10,638</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=CHL">415</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">South Korea</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=KOR&u=MF">9,024</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=KOR">1,965</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Australia</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=AUS&u=MF">8,206</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=AUS">2,747</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Denmark</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=DNK&u=MF">6,588</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=DNK">402</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Portugal</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=PRT&u=MF">6,516</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=PRT">145</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Hong Kong</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=HKG&u=MF">5,820</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=HKG">1,047</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Jersey</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=JEY&u=MF">4,082</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=JEY">49</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Japan</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=JPN&u=MF">4,048</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=JPN">4,444</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Liechtenstein</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=LIE&u=MF">3,672</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=LIE">3</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Singapore</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=SGP&u=MF">3,551</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=SGP">874</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Poland</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=POL&u=MF">3,507</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=POL">381</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Taiwan</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=TWN&u=MF">3,220</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=TWN">1,796</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">South Africa</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=ZAF&u=MF">3,037</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=ZAF">511</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Mexico</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=MEX&u=MF">3,011</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=MEX">218</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">India</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=IND&u=MF">2,986</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=IND">2,290</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Guernsey</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=GGY&u=MF">2,769</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=GGY">48</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">China</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=CHN&u=MF">1,274</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=CHN">3,628</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Thailand</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=THA&u=MF">785</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=THA">679</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Malaysia</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=MYS&u=MF">553</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=MYS">1,294</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Cayman Islands</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=CYM&u=MF">344</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=CYM">132</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Bermuda</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=BMU&u=MF">168</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=BMU">51</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">British Virgin Islands</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=VGB&u=MF">146</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=VGB">20</a></td>                               
+                    </tr>
+                
+                    <tr>
+                        <td style="font-weight:bold">Namibia</td>
+                        <td style="text-align:right;"><a style="color:#718AAF" href="Fund.aspx?c=NAM&u=MF">87</a> </td>
+                        <td style="text-align:right;padding-right:5px;"><a style="color:#718AAF" href="Corporate.aspx?c=NAM">6</a></td>                               
+                    </tr>
+                
+                        </table>
+                    </div>
+    </div>
+    
+      <script type="text/javascript">alert(globalMain.htmlDecode("The&nbsp;account&nbsp;does&nbsp;not&nbsp;exists&nbsp;or&nbsp;the&nbsp;page&nbsp;you&nbsp;are&nbsp;visiting&nbsp;required&nbsp;login."))</script>      
+      
+    <div style="clear: both;"></div>
+
+        </div>
+        
+    </div> 
+  
+    
+    <div id="footer" style="margin: 0 auto; width: 995px;">
+        <div style="clear:both;"></div> 
+        <div style="color:#999999;float:left;margin-top: 9px;">© Copyright 2010 Morningstar, Inc. All rights reserved. Please read our <a href="javascript:footeropenwin('copyright.html',600,400)"><em>Terms of Use</em></a> and <a href="http://members.morningstar.com/memberstpages/PrivacyPolicy.html"><em>Privacy Policy</em></a>.</div>
+        <span  style="float:right;margin-top:9px;margin-left:5px;"></span>
+         
+        <div style="clear:both;"></div> 
+    </div>     
+    <div style="height:50px;width:100%;"></div> 
+    
+</body>
+</html>

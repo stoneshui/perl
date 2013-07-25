@@ -1,0 +1,30 @@
+Data Points	API ID
+Standard Deviation	41
+Sharpe Ratio	36
+Sortino Ratio	39
+Information Ratio	22
+Calmar Ratio	
+Treynor Ratio	44
+Tracking Error	43
+Excess Return	20
+R-squared	34
+Beta	11
+Alpha	2
+Down Capture Ratio	16
+Up Capture Ratio	47
+Max Drawdown	61
+Max Drawdown # Periods	62
+Max Drawdown Peak Date	63
+Max Drawdown Valley Date	64
+Max Gain	1014
+Max Gain # Periods	1015
+Max Gain Start Date	1016
+Max Gain End Date	1017
+Longest Down Streak Return	72
+Longest Down Streak # Periods	71
+Longest Down Streak Start Date	73
+ Longest Down Streak End Date	74
+Longest Up Streak Return	68
+Longest Up Streak # Periods	67
+Longest Up Streak Start Date	69
+Longest Up Streak End Date	70

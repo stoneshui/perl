@@ -1,0 +1,34 @@
+##C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+## chdir 'C:\\Program Files (x86)\\Google\\Chrome\\Application';
+## $dir = "C:\\Program Files (x86)\\Google\\Chrome\\Application";
+## $cmd = "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe";
+## $arg = "E:\\test tool\\index.html";
+## system ($cmd, $arg);
+## system(q#"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe" "E:\\test tool\\index.html"#);
+#
+##system 'node', 'a.js';
+#
+##use IO::All;
+##@lines = io('ff.txt')->slurp;
+##$total = 0;
+##$t2 = 0;
+##for(@lines){
+##	if(/^90001(\:)(.*)/){
+##		$t2++;
+##		print $2, "\n";
+##		if($2 =~ /\s/){
+##			print $_;
+##			print "\nerr--------------------";
+##			#exit;
+##		}
+##	}
+##	if($_ eq "\n"){
+##		$total++;
+##	}
+##}
+##print "\n",$total,',',$t2;
+#system 'start notepad';
+#print "done";
+
+use Shell qw(pwd);
+pwd();hello 

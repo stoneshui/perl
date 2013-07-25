@@ -1,0 +1,39 @@
+StrategyName	StrategyId
+Black Knight Asset Mgmt Stable Value Fd	STUSA054Y4
+Threadneedle Amer Ext Alp I EUR Acc	STUSA04OHK
+iShares MSCI EAFE Index	STUSA04YVJ
+FOF - World	STUSA04NWS
+Franklin Templeton Global Bond Plus	STGBR04M1K 
+db x-trackers Euro STOXX 50	STUSA04Y4G
+Vanguard Aust Fixed Int Index	STUSA04Z7A
+RBC Emerging Markets Equity Class Sr O	STUSA0569K
+Wellington Global Value	STUSA05312
+Wellington Global Contrarian Equity	STUSA04FFR
+Vanguard MSCI Europe ETF	STUSA04YQY
+Vanguard MSCI Emerging Markets ETF	STUSA04YQX
+iSectors Post-MPT Moderate Allocation	STUSA04UJ4
+Lazard International Eq	STUSA04WNS
+First Trust Counter Inflation Portfolio	STUSA04UWE
+Chuo Mitsui - Japan Core	STUSA04VWO
+Appleseed	STUSA04Q0C
+UBS Lux Inst SICAV II-Eur 130/30 AD-T2	STUSA04OJE
+Turner Titan Equity	STUSA051AM
+Wellington Global Growth	STUSA04F89
+AllianceBernstein US High Yield	STUSA04EX0
+Loomis Sayles Large Cap Growth	STUSA04VJ4
+Ashmore Inv Mgt - Local Currency Debt Pt	STUSA04D7O
+AllianceBernstein Emerging Markets Gr	STUSA04D3C
+Morgan Stanley Emerging Markets Debt	STUSA04CJG
+Franklin Templeton U.S. Large Cap Gr Eq	STUSA04BFR
+Wellington Global Research Equity	STUSA04F87
+Martingale LargeCap Value 200	STUSA04CJX
+Franklin Templeton Global Bond Plus	STUSA04EMF
+Franklin Templeton Intl Bond Plus	STUSA0530C
+Morgan Stanley Focus Growth	STUSA05314
+Morgan Stanley International Small Cap	STUSA04EXT
+Franklin Templeton U.S. SMID Cap Gr Eq	STUSA04BFW
+AllianceBernstein US SMID Cap Growth	STUSA04G2B
+Wellington US Research Equity	STUSA04F0P
+Morgan Stanley US Real Estate Securities	STUSA04CJZ
+Wellington Global Bond	STUSA04F0Y
+Franklin Templeton India Equity	STUSA04MPV

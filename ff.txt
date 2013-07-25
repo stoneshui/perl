@@ -1,0 +1,9099 @@
+90000:CL100000
+90001:LF035
+90002:Broad Category Group
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:1
+90010:Classifications
+90011:asset allocation classification
+90012:exposure global distribution grouping group
+90013:Morningstar equity fixed
+90014:bond stock cash
+90015:class income
+
+90000:CL110000
+90001:LF037
+90002:Global Category
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:1
+90010:Classifications
+90011:allocation
+90012:classification peer group
+90013:Morningstar
+90014:categorization
+
+90000:CL111000
+90001:OF028
+90002:Morningstar Category
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:3
+90006:Domicile specific
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:1
+90010:Classifications
+90011:peer classification categorization
+90012:comparison group
+90013:fund strategy
+90014:domicile
+90015:specific
+
+90000:CL111100
+90001:AA071
+90002:Morningstar Institutional Category
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:41
+90006:US
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:1
+90010:Classifications
+90011:classification peer categorization
+90012:group
+90013:comparison narrow
+90014:
+90015:fund
+
+90000:CL120000
+90001:LF002
+90002:US Broad Asset Class
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:41
+90006:US
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:1
+90010:Classifications
+90011:allocation classification exposure
+90012:equity fixed bond
+90013:stock cash
+90014:income
+
+90000:IDN10000
+90001:Does not exist yet
+90002:Strategy Name
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:2
+90008:New Strategy
+90009:7
+90010:Names & Identifiers
+90011:Morningstar
+
+90000:OP110000
+90001:OF006
+90002:Firm Name
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:1
+90008:Firm
+90009:4
+90010:Operations
+90011:Company
+90012:Manager Parent
+
+90000:OP120000
+90001:LS02U
+90002:Firm Type
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:41
+90006:US
+90017:1
+90018:Global
+90007:1
+90008:Firm
+90009:4
+90010:Operations
+90011:Advisor Brokerage Consultant Insurance Bank
+90012:Independent RIA
+90013:Investment
+90014:Mutual Fund
+90015:Controlled
+
+90000:OP130000
+90001:LS02V
+90002:Firm Legal Structure
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:41
+90006:US
+90017:1
+90018:Global
+90007:1
+90008:Firm
+90009:4
+90010:Operations
+90011:Type Corporation Incorporated Inc
+90012:Limited Partnership LLP LLC
+90013:Liability Company
+90014:subchapters sole proprietorship
+
+90000:OP140000
+90001:OS03E
+90002:Year Firm Founded
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:41
+90006:US
+90017:1
+90018:Global
+90007:1
+90008:Firm
+90009:4
+90010:Operations
+90011:inception start
+90012:date
+
+90000:OP150000
+90001:OS03F
+90002:CFA GIPS Compliance
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:2
+90006:SA regions (US/AU/CAN/UK)
+90017:1
+90018:Global
+90007:1
+90008:Firm
+90009:4
+90010:Operations
+90011:compliant standard
+
+90000:OP160000
+90001:OS03D
+90002:Firm SEC File Number
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:41
+90006:US
+90017:1
+90018:Global
+90007:1
+90008:Firm
+90009:4
+90010:Operations
+90011:compliance regulatory
+90012:regulation US
+
+90000:OP170000
+90001:OS030
+90002:Firm CRD/IARD Number
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:41
+90006:US
+90017:1
+90018:Global
+90007:1
+90008:Firm
+90009:4
+90010:Operations
+90011:compliance regulatory
+90012:regulation US
+
+90000:OP180000
+90001:This is in the SA Database
+90002:Main Contact
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:41
+90006:US
+90017:1
+90018:Global
+90007:1
+90008:Firm
+90009:4
+90010:Operations
+90011:point key person connect details
+90012:phone telephone email e-mail mail
+90013:reach link
+90014:number
+90015:fax
+
+90000:OP190000
+90001:HO516
+90002:Firm Total Assets
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:2
+90006:SA regions (US/AU/CAN/UK)
+90017:1
+90018:Global
+90007:1
+90008:Firm
+90009:6
+90010:Size & Flows
+90011:Size volume
+90012:invested
+
+90000:OP191000
+90001:This is in the SA Database
+90002:Firm Total Assets Date
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:2
+90006:SA regions (US/AU/CAN/UK)
+90017:1
+90018:Global
+90007:1
+90008:Firm
+90009:6
+90010:Size & Flows
+90011:Size volume [as of]
+90012:when associated
+90013:invested
+
+90000:OP210000
+90001:OF041
+90002:Advisor
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:1
+90008:Firm
+90009:4
+90010:Operations
+90011:Money manager
+90012:company investment
+
+90000:OP220000
+90001:OS392
+90002:Advisor Street Address
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:1
+90008:Firm
+90009:4
+90010:Operations
+90011:location contact info
+90012:information
+90013:details
+
+90000:OP230000
+90001:OS394
+90002:Advisor State/Province
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:1
+90008:Firm
+90009:4
+90010:Operations
+90011:address
+
+90000:OP240000
+90001:OS395
+90002:Advisor Postal Code
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:1
+90008:Firm
+90009:4
+90010:Operations
+90011:address
+
+90000:OP250000
+90001:HFR41
+90002:Advisor Country
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:1
+90008:Firm
+90009:4
+90010:Operations
+90011:location address
+
+90000:OPF20000
+90001:OF00L
+90002:Primary Prospectus Benchmark
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund
+90009:4
+90010:Operations
+90011:main index
+90012:
+90013:preferred
+90014:manager
+90015:
+
+90000:OPFS1000
+90001:OF00C
+90002:Index Fund
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:4
+90010:Operations
+90011:passive track
+90012:benchmark enhanced
+90013:sampling
+90014:representative
+
+90000:OPFS20000
+90001:OF015
+90002:Portfolio Manager Name
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:4
+90010:Operations
+90011:management
+90012:people
+90013:strategy
+
+90000:OPFS2000C
+90001:OF00F/OF033
+90002:Manager Tenure
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:4
+90010:Operations
+90011:length manage longest average
+90012:shortest management
+90013:people
+
+90000:OPS10000
+90001:DF00L
+90002:Manager Preferred Benchmark
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:2
+90006:SA regions (US/AU/CAN/UK)
+90017:1
+90018:Global
+90007:3
+90008:SA Strategy
+90009:4
+90010:Operations
+90011:main index
+90012:
+90013:preferred
+90014:manager
+90015:
+
+90000:OPS20000FF
+90001:AA07M
+90002:Strategy Assets
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:2
+90006:SA regions (US/AU/CAN/UK)
+90017:1
+90018:Global
+90007:3
+90008:SA Strategy
+90009:6
+90010:Size & Flows
+90011:Size volume
+90012:invested
+
+90000:OPS21000FF
+90001:AA07N
+90002:Strategy Assets Date
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:2
+90006:SA regions (US/AU/CAN/UK)
+90017:1
+90018:Global
+90007:3
+90008:SA Strategy
+90009:6
+90010:Size & Flows
+90011:Size volume [as of]
+90012:when associated
+90013:invested
+
+90000:OPSV10000
+90001:OS003
+90002:Management Fee
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:4
+90010:Operations
+90011:cost pay
+90012:price
+90013:expense
+90014:percentage
+90015:%
+
+90000:OPSV20000
+90001:LS466/
+90002:Investment Type
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:4
+90010:Operations
+90011:Structure focus
+90012:mutual fund
+90012:etf
+90012:separate account
+90012:variable annuity
+90012:collective investment trust
+90012:cit
+90012:hedge
+90012:closed
+90013:open end 529
+90014:vehicle share
+
+90000:OPSV30000
+90001:OS00F
+90002:Inception Date
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:4
+90010:Operations
+90011:Start
+90012:beginning
+90013:exist
+90014:existance
+
+90000:OPV10000
+90001:LS03C
+90002:Product Type
+90003:41
+90004:Separate Accounts/CIT
+90005:2
+90006:SA regions (US/AU/CAN/UK)
+90017:1
+90018:Global
+90007:4
+90008:Vehicle
+90009:4
+90010:Operations
+90011:structure
+
+90000:OPV20000
+90001:LS03A
+90002:Product Focus
+90003:41
+90004:Separate Accounts/CIT
+90005:2
+90006:SA regions (US/AU/CAN/UK)
+90017:1
+90018:Global
+90007:4
+90008:Vehicle
+90009:4
+90010:Operations
+90011:retail institutional all
+90012:client segment
+90013:invest
+90014:intend
+
+90000:OPX100000
+90001:LS017
+90002:Domicile
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:4
+90010:Operations
+90011:country registration origin
+90013:tax
+
+90000:PO00000EQ
+90001:ST156
+90002:Equity Style Box
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:proprietary
+90012:Morningstar
+
+90000:PO00000FI
+90001:HS00L
+90002:Fixed Inc Style Box
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:proprietary
+90012:Morningstar
+90020:
+
+90000:PO10000000
+90001:1
+90002:Equity Super Sector Cyclical
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+90014:broad
+
+90000:PO10102000
+90001:10102
+90002:Equity Industry Group Building Materials
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10100000
+90001:101
+90002:Equity Sector Basic Materials
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10101000
+90001:10101
+90002:Equity Industry Group Agriculture
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10101001
+90001:10101001
+90002:Equity Industry Agricultural Inputs
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10102002
+90001:10102002
+90002:Equity Industry Building Materials
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10103000
+90001:10103
+90002:Equity Industry Group Chemicals
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10103003
+90001:10103003
+90002:Equity Industry Chemicals
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10103004
+90001:10103004
+90002:Equity Industry Specialty Chemicals
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10104000
+90001:10104
+90002:Equity Industry Group Coal
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10104005
+90001:10104005
+90002:Equity Industry Coal
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10105000
+90001:10105
+90002:Equity Industry Group Forest Products
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10105006
+90001:10105006
+90002:Equity Industry Lumber & Wood Production
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10105007
+90001:10105007
+90002:Equity Industry Paper & Paper Products
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10106000
+90001:10106
+90002:Equity Industry Group Metals & Mining
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10106008
+90001:10106008
+90002:Equity Industry Aluminum
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10106009
+90001:10106009
+90002:Equity Industry Copper
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10106010
+90001:10106010
+90002:Equity Industry Gold
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10106011
+90001:10106011
+90002:Equity Industry Industrial Metals & Minerals
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10106012
+90001:10106012
+90002:Equity Industry Silver
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10107000
+90001:10107
+90002:Equity Industry Group Steel
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10107013
+90001:10107013
+90002:Equity Industry Steel
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10200000
+90001:102
+90002:Equity Sector Consumer Cyclical
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10208000
+90001:10208
+90002:Equity Industry Group Advertising & Marketing Services
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10208014
+90001:10208014
+90002:Equity Industry Advertising Agencies
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10208015
+90001:10208015
+90002:Equity Industry Marketing Services
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10209000
+90001:10209
+90002:Equity Industry Group Autos
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10209016
+90001:10209016
+90002:Equity Industry Auto & Truck Dealerships
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10209017
+90001:10209017
+90002:Equity Industry Auto Manufacturers
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10209018
+90001:10209018
+90002:Equity Industry Auto Parts
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10209019
+90001:10209019
+90002:Equity Industry Recreational Vehicles
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+90020:
+
+90000:PO10209020
+90001:10209020
+90002:Equity Industry Rubber & Plastics
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10210000
+90001:10210
+90002:Equity Industry Group Entertainment
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10210021
+90001:10210021
+90002:Equity Industry Broadcasting - Radio
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10210022
+90001:10210022
+90002:Equity Industry Broadcasting - TV
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10210023
+90001:10210023
+90002:Equity Industry Media - Diversified
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10211000
+90001:10211
+90002:Equity Industry Group Homebuilding & Construction
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10211024
+90001:10211024
+90002:Equity Industry Residential Construction
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10211025
+90001:10211025
+90002:Equity Industry Textile Manufacturing
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10212000
+90001:10212
+90002:Equity Industry Group Manufacturing- Apparel & Furniture
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10212026
+90001:10212026
+90002:Equity Industry Apparel Manufacturing
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10212027
+90001:10212027
+90002:Equity Industry Footwear & Accessories
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10212028
+90001:10212028
+90002:Equity Industry Home Furnishings & Fixtures
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10213000
+90001:10213
+90002:Equity Industry Group Packaging & Containers
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10213029
+90001:10213029
+90002:Equity Industry Packaging & Containers
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10214000
+90001:10214
+90002:Equity Industry Group Personal Services
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10214030
+90001:10214030
+90002:Equity Industry Personal Services
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10215000
+90001:10215
+90002:Equity Industry Group Publishing
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10215031
+90001:10215031
+90002:Equity Industry Publishing
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10216000
+90001:10216
+90002:Equity Industry Group Restaurants
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10216032
+90001:10216032
+90002:Equity Industry Restaurants
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10217000
+90001:10217
+90002:Equity Industry Group Retail- Apparel & Specialty
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10217033
+90001:10217033
+90002:Equity Industry Apparel Stores
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10217034
+90001:10217034
+90002:Equity Industry Department Stores
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10217035
+90001:10217035
+90002:Equity Industry Home Improvement Stores
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10217036
+90001:10217036
+90002:Equity Industry Luxury Goods
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10217037
+90001:10217037
+90002:Equity Industry Specialty Retail
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10218000
+90001:10218
+90002:Equity Industry Group Travel & Leisure
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10218038
+90001:10218038
+90002:Equity Industry Gambling
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10218039
+90001:10218039
+90002:Equity Industry Leisure
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10218040
+90001:10218040
+90002:Equity Industry Lodging
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10218041
+90001:10218041
+90002:Equity Industry Resorts & Casinos
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10300000
+90001:103
+90002:Equity Sector Financial Services
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10319000
+90001:10319
+90002:Equity Industry Group Asset Management
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10319042
+90001:10319042
+90002:Equity Industry Asset Management
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10320000
+90001:10320
+90002:Equity Industry Group Banks
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10320043
+90001:10320043
+90002:Equity Industry Banks - Global
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10320044
+90001:10320044
+90002:Equity Industry Banks - Regional - Africa
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10320045
+90001:10320045
+90002:Equity Industry Banks - Regional - Asia
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10320046
+90001:10320046
+90002:Equity Industry Banks - Regional - Australia
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10320047
+90001:10320047
+90002:Equity Industry Banks - Regional - Canada
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10320048
+90001:10320048
+90002:Equity Industry Banks - Regional - Europe
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10320049
+90001:10320049
+90002:Equity Industry Banks - Regional - Latin America
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10320050
+90001:10320050
+90002:Equity Industry Banks - Regional - US
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10320051
+90001:10320051
+90002:Equity Industry Savings & Cooperative Banks
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10320052
+90001:10320052
+90002:Equity Industry Specialty Finance
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10321000
+90001:10321
+90002:Equity Industry Group Brokers & Exchanges
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10321053
+90001:10321053
+90002:Equity Industry Capital Markets
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10321054
+90001:10321054
+90002:Equity Industry Financial Exchanges
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10321055
+90001:10321055
+90002:Equity Industry Insurance Brokers
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10322000
+90001:10322
+90002:Equity Industry Group Credit Services
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10322056
+90001:10322056
+90002:Equity Industry Credit Services
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10323000
+90001:10323
+90002:Equity Industry Group Insurance
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10323057
+90001:10323057
+90002:Equity Industry Insurance - Diversified
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10324000
+90001:10324
+90002:Equity Industry Group Insurance-Life
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10324058
+90001:10324058
+90002:Equity Industry Insurance - Life
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10325000
+90001:10325
+90002:Equity Industry Group Insurance-Property & Casualty
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10325059
+90001:10325059
+90002:Equity Industry Insurance - Property & Casualty
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10326000
+90001:10326
+90002:Equity Industry Group Insurance-Specialty
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10326060
+90001:10326060
+90002:Equity Industry Insurance - Reinsurance
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10326061
+90001:10326061
+90002:Equity Industry Insurance - Specialty
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10400000
+90001:104
+90002:Equity Sector Real Estate
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10427000
+90001:10427
+90002:Equity Industry Group Real Estate
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10427062
+90001:10427062
+90002:Equity Industry Real Estate - General
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10427063
+90001:10427063
+90002:Equity Industry Real Estate Services
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10428000
+90001:10428
+90002:Equity Industry Group REITs
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO10428064
+90001:10428064
+90002:Equity Industry REIT - Diversified
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10428065
+90001:10428065
+90002:Equity Industry REIT - Healthcare Facilities
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10428066
+90001:10428066
+90002:Equity Industry REIT - Hotel & Motel
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10428067
+90001:10428067
+90002:Equity Industry REIT - Industrial
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10428068
+90001:10428068
+90002:Equity Industry REIT - Office
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10428069
+90001:10428069
+90002:Equity Industry REIT - Residential
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO10428070
+90001:10428070
+90002:Equity Industry REIT - Retail
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20000000
+90001:2
+90002:Equity Super Sector Defensive
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+90014:broad
+
+90000:PO20500000
+90001:205
+90002:Equity Sector Consumer Defensive
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO20529000
+90001:20529
+90002:Equity Industry Group Beverages-Alcoholic
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO20529071
+90001:20529071
+90002:Equity Industry Beverages - Brewers
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20529072
+90001:20529072
+90002:Equity Industry Beverages - Wineries & Distilleries
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20530000
+90001:20530
+90002:Equity Industry Group Beverages-Non-Alcoholic
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO20530073
+90001:20530073
+90002:Equity Industry Beverages - Soft Drinks
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20531000
+90001:20531
+90002:Equity Industry Group Consumer Packaged Goods
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO20531074
+90001:20531074
+90002:Equity Industry Confectioners
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20531075
+90001:20531075
+90002:Equity Industry Farm Products
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20531076
+90001:20531076
+90002:Equity Industry Household & Personal Products
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20531077
+90001:20531077
+90002:Equity Industry Packaged Foods
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20532000
+90001:20532
+90002:Equity Industry Group Education
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO20532078
+90001:20532078
+90002:Equity Industry Education & Training Services
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20533000
+90001:20533
+90002:Equity Industry Group Retail-Defensive
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO20533079
+90001:20533079
+90002:Equity Industry Discount Stores
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20533080
+90001:20533080
+90002:Equity Industry Pharmaceutical Retailers
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20533081
+90001:20533081
+90002:Equity Industry Food Distribution
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20533082
+90001:20533082
+90002:Equity Industry Grocery Stores
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20534000
+90001:20534
+90002:Equity Industry Group Tobacco Products
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO20534083
+90001:20534083
+90002:Equity Industry Tobacco
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20600000
+90001:206
+90002:Equity Sector Healthcare
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO20635000
+90001:20635
+90002:Equity Industry Group Biotechnology
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO20635084
+90001:20635084
+90002:Equity Industry Biotechnology
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20636000
+90001:20636
+90002:Equity Industry Group Drug Manufacturers
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO20636085
+90001:20636085
+90002:Equity Industry Drug Manufacturers - Major
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20636086
+90001:20636086
+90002:Equity Industry Drug Manufacturers - Specialty & Generic
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20637000
+90001:20637
+90002:Equity Industry Group Healthcare Plans
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO20637087
+90001:20637087
+90002:Equity Industry Healthcare Plans
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20638000
+90001:20638
+90002:Equity Industry Group Healthcare Providers
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO20638088
+90001:20638088
+90002:Equity Industry Long-Term Care Facilities
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20638089
+90001:20638089
+90002:Equity Industry Medical Care
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20639000
+90001:20639
+90002:Equity Industry Group Medical Devices
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO20639090
+90001:20639090
+90002:Equity Industry Medical Devices
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20640000
+90001:20640
+90002:Equity Industry Group Medical Diagnostics & Research
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO20640091
+90001:20640091
+90002:Equity Industry Diagnostics & Research
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20641000
+90001:20641
+90002:Equity Industry Group Medical Distribution
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO20641092
+90001:20641092
+90002:Equity Industry Medical Distribution
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20642000
+90001:20642
+90002:Equity Industry Group Medical Instruments & Equipment
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO20642093
+90001:20642093
+90002:Equity Industry Medical Instruments & Supplies
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20700000
+90001:207
+90002:Equity Sector Utilities
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO20743000
+90001:20743
+90002:Equity Industry Group Utilities-Independent Power Producers
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO20743094
+90001:20743094
+90002:Equity Industry Utilities - Independent Power Producers
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20744000
+90001:20744
+90002:Equity Industry Group Utilities-Regulated
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO20744095
+90001:20744095
+90002:Equity Industry Utilities - Diversified
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20744096
+90001:20744096
+90002:Equity Industry Utilities - Regulated Electric
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20744097
+90001:20744097
+90002:Equity Industry Utilities - Regulated Gas
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO20744098
+90001:20744098
+90002:Equity Industry Utilities - Regulated Water
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO30000000
+90001:3
+90002:Equity Super Sector Sensitive
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+90014:broad
+
+90000:PO30800000
+90001:308
+90002:Equity Sector Communication Services
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO30845000
+90001:30845
+90002:Equity Industry Group Communication Services
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO30845099
+90001:30845099
+90002:Equity Industry Pay TV
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO30845100
+90001:30845100
+90002:Equity Industry Telecom Services
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO30900000
+90001:309
+90002:Equity Sector Energy
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO30946000
+90001:30946
+90002:Equity Industry Group Oil & Gas-Drilling
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO30946101
+90001:30946101
+90002:Equity Industry Oil & Gas Drilling
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO30947000
+90001:30947
+90002:Equity Industry Group Oil & Gas E&P
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO30947102
+90001:30947102
+90002:Equity Industry Oil & Gas E& P
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO30948000
+90001:30948
+90002:Equity Industry Group Oil & Gas-Integrated
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO30948103
+90001:30948103
+90002:Equity Industry Oil & Gas Integrated
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO30949000
+90001:30949
+90002:Equity Industry Group Oil & Gas Midstream
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO30949104
+90001:30949104
+90002:Equity Industry Oil & Gas Midstream
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO30950000
+90001:30950
+90002:Equity Industry Group Oil & Gas Refining & Marketing
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO30950105
+90001:30950105
+90002:Equity Industry Oil & Gas Refining & Marketing
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO30951000
+90001:30951
+90002:Equity Industry Group Oil & Gas-Services
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO30951106
+90001:30951106
+90002:Equity Industry Oil & Gas Equipment & Services
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31000000
+90001:310
+90002:Equity Sector Industrials
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO31052000
+90001:31052
+90002:Equity Industry Group Aerospace & Defense
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO31052107
+90001:31052107
+90002:Equity Industry Aerospace & Defense
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31053000
+90001:31053
+90002:Equity Industry Group Airlines
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+90020:
+
+90000:PO31053108
+90001:31053108
+90002:Equity Industry Airlines
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31054000
+90001:31054
+90002:Equity Industry Group Business Services
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO31054109
+90001:31054109
+90002:Equity Industry Business Services
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31055000
+90001:31055
+90002:Equity Industry Group Conglomerates
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO31055110
+90001:31055110
+90002:Equity Industry Conglomerates
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31056000
+90001:31056
+90002:Equity Industry Group Consulting & Outsourcing
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO31056111
+90001:31056111
+90002:Equity Industry Rental & Leasing Services
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31056112
+90001:31056112
+90002:Equity Industry Security & Protection Services
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31057000
+90001:31057
+90002:Equity Industry Group Employment Services
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO31057113
+90001:31057113
+90002:Equity Industry Staffing & Outsourcing Services
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31058000
+90001:31058
+90002:Equity Industry Group Engineering & Construction
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO31058114
+90001:31058114
+90002:Equity Industry Engineering & Construction
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31058115
+90001:31058115
+90002:Equity Industry Infrastructure Operations
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31059000
+90001:31059
+90002:Equity Industry Group Farm & Construction Machinery
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO31059116
+90001:31059116
+90002:Equity Industry Farm & Construction Equipment
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31060000
+90001:31060
+90002:Equity Industry Group Industrial Distribution
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+90020:
+
+90000:PO31060117
+90001:31060117
+90002:Equity Industry Industrial Distribution
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31061000
+90001:31061
+90002:Equity Industry Group Industrial Products
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO31061118
+90001:31061118
+90002:Equity Industry Business Equipment
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31061119
+90001:31061119
+90002:Equity Industry Diversified Industrials
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31061120
+90001:31061120
+90002:Equity Industry Metal Fabrication
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31061121
+90001:31061121
+90002:Equity Industry Pollution & Treatment Controls
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31061122
+90001:31061122
+90002:Equity Industry Tools & Accessories
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31062000
+90001:31062
+90002:Equity Industry Group Transportation & Logistics
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO31062123
+90001:31062123
+90002:Equity Industry Airports & Air Services
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31062124
+90001:31062124
+90002:Equity Industry Integrated Shipping & Logistics
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31062125
+90001:31062125
+90002:Equity Industry Railroads
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31062126
+90001:31062126
+90002:Equity Industry Shipping & Ports
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31062127
+90001:31062127
+90002:Equity Industry Trucking
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31063000
+90001:31063
+90002:Equity Industry Group Truck Manufacturing
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO31063128
+90001:31063128
+90002:Equity Industry Truck Manufacturing
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31064000
+90001:31064
+90002:Equity Industry Group Waste Management
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO31064129
+90001:31064129
+90002:Equity Industry Waste Management
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31100000
+90001:311
+90002:Equity Sector Technology
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO31165000
+90001:31165
+90002:Equity Industry Group Application Software
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO31165130
+90001:31165130
+90002:Equity Industry Electronic Gaming & Multimedia
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31165131
+90001:31165131
+90002:Equity Industry Healthcare Information Services
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31165132
+90001:31165132
+90002:Equity Industry Information Technology Services
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31165133
+90001:31165133
+90002:Equity Industry Software - Application
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31165134
+90001:31165134
+90002:Equity Industry Software - Infrastructure
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31166000
+90001:31166
+90002:Equity Industry Group Communication Equipment
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO31166135
+90001:31166135
+90002:Equity Industry Communication Equipment
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31167000
+90001:31167
+90002:Equity Industry Group Computer Hardware
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO31167136
+90001:31167136
+90002:Equity Industry Computer Distribution
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31167137
+90001:31167137
+90002:Equity Industry Computer Systems
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31167138
+90001:31167138
+90002:Equity Industry Consumer Electronics
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31167139
+90001:31167139
+90002:Equity Industry Contract Manufacturers
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31167140
+90001:31167140
+90002:Equity Industry Data Storage
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31167141
+90001:31167141
+90002:Equity Industry Electronic Components
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31167142
+90001:31167142
+90002:Equity Industry Electronics Distribution
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31167143
+90001:31167143
+90002:Equity Industry Scientific & Technical Instruments
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31168000
+90001:31168
+90002:Equity Industry Group Online Media
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO31168144
+90001:31168144
+90002:Equity Industry Internet Content & Information
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31169000
+90001:31169
+90002:Equity Industry Group Semiconductors
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution holdings
+90013:percentage %
+
+90000:PO31169145
+90001:31169145
+90002:Equity Industry Semiconductor Equipment & Materials
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31169146
+90001:31169146
+90002:Equity Industry Semiconductor Memory
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31169147
+90001:31169147
+90002:Equity Industry Semiconductors
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:PO31169148
+90001:31169148
+90002:Equity Industry Solar
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:3
+90008:Fund/SA Strategy
+90009:5
+90010:Portfolio
+90011:Morningstar classification
+90012:allocation distribution
+90013:holdings narrow
+90014:percentage %
+
+90000:RRC100000
+90001:(Custom Calc); to be yet created by Data API
+90002:Alpha
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:regression Jensen Jensen's
+90012:comparive relative
+90013:MPT capm Modern Theory capital model
+90014:active management  risk-adjusted [risk adjusted]
+90015:benchmark expected
+
+90000:RRC110000
+90001:(Custom Calc); to be yet created by Data API
+90002:Kappa(3)
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:options
+90012:regression
+90013:price
+90014:inherent
+90015:
+
+90000:RRC120000
+90001:(Custom Calc); to be yet created by Data API
+90002:Omega
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:options
+90012:third 3rd 3 derivative
+90013:gamma
+90014:speed price
+90015:alternative inherent
+
+90000:RRC130000
+90001:(Custom Calc); to be yet created by Data API
+90002:Sortino Ratio
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:risk-adjusted [risk adjusted] relative
+90012:
+90013:downside deviation
+90014:[risk free]
+90015:rate proxy inherent
+
+90000:RRC140000
+90001:(Custom Calc); to be yet created by Data API
+90002:Standard Deviation
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:Risk volatility stdev [std dev]
+90012:variance dispersion
+90013:
+90014:inherent
+90015:
+
+90000:RRC150000
+90001:(Custom Calc); to be yet created by Data API
+90002:Treynor Ratio
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:comparative relative
+90012:risk-adjusted [risk adjusted] Risk-Reward Ratio
+90013:efficiency
+90014:benchmark
+90015:
+
+90000:RRC160000
+90001:(Custom Calc); to be yet created by Data API
+90002:Period Return (Best/Worst)
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:Upside Downside up down
+90012:month quarter
+90013:inherent
+90014:
+90015:
+
+90000:RRC170000
+90001:(Custom Calc); to be yet created by Data API
+90002:Batting Average
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:comparative relative
+90012:
+90013:benchmark
+90014:
+90015:
+
+90000:RRC180000
+90001:(Custom Calc); to be yet created by Data API
+90002:Calmar Ratio
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:risk-adjusted [risk adjusted]
+90012:
+90013:
+90014:inherent
+90015:
+
+90000:RRC190000
+90001:(Custom Calc); to be yet created by Data API
+90002:Sterling Ratio
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:risk-adjusted [risk adjusted]
+90012:
+90013:
+90014:inherent
+90015:
+
+90000:RRC200000
+90001:(Custom Calc); to be yet created by Data API
+90002:Tracking Error
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:relative comparative
+90012:benchmark
+90013:TE
+90014:
+90015:
+
+90000:RRC210000
+90001:(Custom Calc); to be yet created by Data API
+90002:Beta
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:bull bear regression capm capital model
+90012:relative comparative systematic
+90013:risk volatility
+90014:coefficient
+90015:benchmark
+
+90000:RRC220000
+90001:(Custom Calc); to be yet created by Data API
+90002:Market Capture Ratio
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:Upside Downside up down relative
+90012:benchmark
+90013:
+90014:
+90015:
+
+90000:RRC230000
+90001:(Custom Calc); to be yet created by Data API
+90002:Market Capture Return
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:upside downside up down relative
+90012:
+90013:benchmark
+90014:
+90015:
+
+90000:RRC240000
+90001:(Custom Calc); to be yet created by Data API
+90002:Number of Periods (Positive/Negative)
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:upside downside up down relative
+90012:
+90013:benchmark
+90014:+ -
+90015:
+
+90000:RRC250000
+90001:(Custom Calc); to be yet created by Data API
+90002:Percentage of Periods (Up/Down)
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:upside downside up down relative
+90012:
+90013:benchmark
+90014:percent %
+90015:
+
+90000:RRC260000
+90001:(Custom Calc); to be yet created by Data API
+90002:Ratio of Periods to Market (Upside/Downside)
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:upside downside up down relative
+90012:number
+90013:benchmark
+90014:
+90015:
+
+90000:RRC270000
+90001:(Custom Calc); to be yet created by Data API
+90002:Outperform Market Ratio (Upside/Downside)
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:upside downside up down relative
+90012:percent
+90013:benchmark
+90014:%
+90015:
+
+90000:RRC280000
+90001:(Custom Calc); to be yet created by Data API
+90002:Deviation (Upside/Downside)
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:relative Upside Downside
+90012:Above below
+90013:positive negative
+90014:benchmark
+90015:+ -
+
+90000:RRC290000
+90001:(Custom Calc); to be yet created by Data API
+90002:Standard Deviation Relative to Market (Upside/Downside)
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:[std dev] upside downside up down
+90012:
+90013:benchmark
+90014:above below
+90015:
+
+90000:RRC300000
+90001:(Custom Calc); to be yet created by Data API
+90002:Max Drawdown
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:dispersion decline
+90012:risk
+90013:variance
+90014:inherent
+90015:
+
+90000:RRC310000
+90001:(Custom Calc); to be yet created by Data API
+90002:Correlation
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:relative bull bear
+90012:comparative
+90013:
+90014:benchmark
+90015:
+
+90000:RRC320000
+90001:(Custom Calc); to be yet created by Data API
+90002:Information Ratio
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:Risk-Reward Ratio comparative relative
+90012:risk-adjusted [risk adjusted]
+90013:consistency
+90014:benchmark IR
+90015:
+
+90000:RRC330000
+90001:(Custom Calc); to be yet created by Data API
+90002:R2
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:R squared R-squared
+90012:regression
+90013:comparative
+90014:track relative
+90015:[Modern Portfolio Theory] MPT benchmark
+
+90000:RRC340000
+90001:(Custom Calc); to be yet created by Data API
+90002:Kurtosis
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:
+90012:inherent
+90013:
+90014:
+90015:
+
+90000:RRC350000
+90001:(Custom Calc); to be yet created by Data API
+90002:Skewness
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:
+90012:inherent
+90013:
+90014:
+90015:
+
+90000:RRC360000
+90001:(Custom Calc); to be yet created by Data API
+90002:Return
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:performance
+90012:
+90013:
+90014:inherent
+90015:
+
+90000:RRC370000
+90001:(Custom Calc); to be yet created by Data API
+90002:Sharpe Ratio
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+90011:relative [risk free] risk-adjusted [risk adjusted]
+90012:inherent
+90013:
+90014:
+90015:
+
+90000:RRC381000
+90001:(Custom Calc); to be yet created by Data API
+90002:Investment Scheme
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC390000
+90001:(Custom Calc); to be yet created by Data API
+90002:Value at Risk
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC400000
+90001:(Custom Calc); to be yet created by Data API
+90002:Overall Capture Ratio
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC410000
+90001:(Custom Calc); to be yet created by Data API
+90002:Average Absolute Deviation
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC420000
+90001:(Custom Calc); to be yet created by Data API
+90002:Average Drawdown
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC430000
+90001:(Custom Calc); to be yet created by Data API
+90002:Average Gain
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC440000
+90001:(Custom Calc); to be yet created by Data API
+90002:Average Loss
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC450000
+90001:(Custom Calc); to be yet created by Data API
+90002:Coefficient of Variation
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC460000
+90001:(Custom Calc); to be yet created by Data API
+90002:Gain Deviation
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC470000
+90001:(Custom Calc); to be yet created by Data API
+90002:Gain Std Dev
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC480000
+90001:(Custom Calc); to be yet created by Data API
+90002:Gain/Loss Ratio
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC490000
+90001:(Custom Calc); to be yet created by Data API
+90002:Jarque-Bera
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC500000
+90001:(Custom Calc); to be yet created by Data API
+90002:Longest Streak # of Periods
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC510000
+90001:(Custom Calc); to be yet created by Data API
+90002:Longest Streak End Date
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC520000
+90001:(Custom Calc); to be yet created by Data API
+90002:Longest Streak Return
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC530000
+90001:(Custom Calc); to be yet created by Data API
+90002:Longest Streak Start Date
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC540000
+90001:(Custom Calc); to be yet created by Data API
+90002:Loss Deviation
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC550000
+90001:(Custom Calc); to be yet created by Data API
+90002:Loss Std Dev
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC560000
+90001:(Custom Calc); to be yet created by Data API
+90002:Max Absolute Deviation
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC570000
+90001:(Custom Calc); to be yet created by Data API
+90002:Max Gain
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC580000
+90001:(Custom Calc); to be yet created by Data API
+90002:Max Gain # of Periods
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC590000
+90001:(Custom Calc); to be yet created by Data API
+90002:Max Gain End Date
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC600000
+90001:(Custom Calc); to be yet created by Data API
+90002:Max Gain Start Date
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC610000
+90001:(Custom Calc); to be yet created by Data API
+90002:Morningstar Return
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC620000
+90001:(Custom Calc); to be yet created by Data API
+90002:Morningstar Risk
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC630000
+90001:(Custom Calc); to be yet created by Data API
+90002:Morningstar Risk-Adj Ret
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC640000
+90001:(Custom Calc); to be yet created by Data API
+90002:M-Squared
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC650000
+90001:(Custom Calc); to be yet created by Data API
+90002:Overall Deviation
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC660000
+90001:(Custom Calc); to be yet created by Data API
+90002:Relative Risk
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC670000
+90001:(Custom Calc); to be yet created by Data API
+90002:Semi Deviation
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC680000
+90001:(Custom Calc); to be yet created by Data API
+90002:Semi Std Dev
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC690000
+90001:(Custom Calc); to be yet created by Data API
+90002:Semi Variance
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC700000
+90001:(Custom Calc); to be yet created by Data API
+90002:Appraisal Ratio
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC710000
+90001:(Custom Calc); to be yet created by Data API
+90002:Covariance
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC720000
+90001:(Custom Calc); to be yet created by Data API
+90002:Efficiency Ratio
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC730000
+90001:(Custom Calc); to be yet created by Data API
+90002:Residual Std Dev
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC740000
+90001:(Custom Calc); to be yet created by Data API
+90002:Standard Error of Alpha
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC750000
+90001:(Custom Calc); to be yet created by Data API
+90002:Standard Error of Beta
+90003:41
+90003:42
+90003:43
+90003:44
+90003:45
+90003:46
+90004:Separate Account/CIT
+90004:Open End Fund
+90004:Exchange Traded Fund
+90004:Variable Annuity
+90004:Closed End Fund
+90004:Hedge Fund
+90005:1
+90006:Global
+90017:1
+90018:Global
+90007:4
+90008:Share Class/Vehicle
+90009:3
+90010:Return & Risk
+
+90000:RRC380000
+90001:(Custom Calc); to be yet created by Data API
+90002:Max Drawdown # Periods
+90010:Return & Risk
+
+90000:RRC380001
+90001:(Custom Calc); to be yet created by Data API
+90002:Max Drawdown Peak Date
+90010:Return & Risk
+
+90000:RRC380002
+90001:(Custom Calc); to be yet created by Data API
+90002:Max Drawdown Valley Date
+90010:Return & Risk
+
+90000:RRC380003
+90001:(Custom Calc); to be yet created by Data API
+90002:Max Drawdown Recovery Date
+90010:Return & Risk
+
+90000:PO50000101
+90002:Portfolio Date
+90010:Portfolio

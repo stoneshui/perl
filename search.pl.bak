@@ -1,0 +1,51 @@
+use File::Find;
+use File::Spec;
+use File::Basename;
+use Cwd;
+#search("F:\\workspace_f\\mr-server", "VehicleTypes");
+#search("F:\\workspace_f\\MR4\\ct", "M4/error");
+#system qq(perl -pi.bak -e "s/abc/123/g" a.txt);
+#param=%7B%22id%22%3A%22STUSA04G2B%22%2C%22selType%22%3A0%2C%22vehicleType%22%3A%22%22%2C%22startDate%22%3A%222007-11-05%22%2C%22endDate%22%3A%222013-04-10%22%7D
+$dir = getcwd;
+@ds = File::Spec->splitdir($dir); 
+pop @ds;
+$dir = File::Spec->catfile(@ds).'/mr';
+print $dir, "\n";
+search($dir, 'setAlignRightToGrid'); 
+
+sub searchAndReplace{
+	local ($dir, $content,$replace) = @_; #, $replace
+	my @files = search($dir, $content);
+	for(@files){
+		system qq(perl -pi.bak -e "s/$content/$replace/g" $_);
+	}
+}
+
+sub search{
+	local ($dir, $content) = @_;
+ 
+	local $findNum = 0;
+	local $total = 0;
+	local @founds = ();
+	local @files = ();
+	find(\&callback, $dir);#"F:/workspace_f/MR4/uif/trunk/components/panel-content"
+	print '-'x100, "\n";
+	print "total: find $findNum\n";
+	print join "", @founds;
+	return @files;
+}
+sub callback{
+	print "scanning ".(++$total)." files: $File::Find::name\n" if -f;
+	next if (/\.svn/ || /\bbin\b/) ; 
+	#//if(11){
+		open F, $File::Find::name;
+		while(<F>){
+			if(/$content/){
+				push @founds, "find $content at $File::Find::name, line $. \n"; 
+				push @files, $File::Find::name;
+				$findNum++;
+			}
+		}
+		close F;
+	#//}
+}

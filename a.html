@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head>
+  <title> New Document </title>
+  <meta name="Generator" content="EditPlus">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+    <script type="text/javascript" > 
+   
+		var arr = [];
+		for(var i=0; i<100000; i++){
+			var num = getRandomIn(1, 1000);
+			var obj = {a:''};
+			obj.a.num = num;
+			obj.name = 'zhang san';
+			arr.push(obj);
+		
+		}
+		console.log('before sort:'+arr);
+		
+		var t1 = new Date().getTime();
+		arr.sort(function(a, b){
+			return a.a.num - b.a.num;
+		});
+		var t2 = new Date().getTime();
+		var t3 = t2 - t1;
+		alert('wast:'+t3);
+		console.log('wast:'+t3);
+		console.log('after  sort:'+arr);
+   
+   
+    function getRandomIn(min, max){
+		return parseInt(Math.random()*(max-min+1)+min);
+    }
+	 
+   </script>
+ </head>
+
+ <body>
+  
+ </body>
+</html>

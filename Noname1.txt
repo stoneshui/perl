@@ -1,0 +1,4 @@
+用户名:admin
+密码:changeme
+rock123
+如果您忘记了用户名或密码，请联系您的 Splunk 管理员。

@@ -4,7 +4,7 @@ use Cwd;
 my $d = getcwd;
 my @fs = File::Spec->splitdir($d);
 pop @fs;
-$d = 'C:\\Projects\\mercury-mr\\mr-server\\trunk';#File::Spec->catfile(@fs, 'mr', 'trunk');
+$d = 'E:\\framework';#File::Spec->catfile(@fs, 'mr', 'trunk');
 print $d, "\n";
  
 
@@ -12,10 +12,10 @@ $total = 1;
 
 $start = time;
 #$d = 'F:\\workspace_f\\MR4\\webtest\\WebContent\\dhtmlxGrid\\dhtmlxGrid'; 
-search($d, qr/ExportConvertedInvestmentList/);
+search($d, qr/flash-column/);
 $wast = time - $start;
 print "scan wast $wast seconds\n";
- 
+<>; 
 
 sub search{
 	my($dir, $content, $isFile) = @_;
